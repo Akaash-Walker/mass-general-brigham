@@ -38,7 +38,10 @@ The final prototype delivered for **Brigham & Women’s Hospital** incorporated 
 
 ## Availability of Source Code
 The source code for this project is **not publicly available** due to a signed project agreement and release form.  
-However, a **demo video** showcasing the application is available [here](https://youtu.be/a8q2InTtLC4). Timestamps for each section of the video can be found in the description.
+However, a **demo video** showcasing the application is available [here](https://youtu.be/a8q2InTtLC4). Timestamps for each section of the video can be found in the descriptio
+
+
+**Note:** If you are interested in seeing the source code, please message me on [Linkedin](https://www.linkedin.com/in/akaash-walker-1a82821a0/) and I will reach back out to you as soon as possible!
 
 ---
 
